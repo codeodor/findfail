@@ -1,0 +1,5 @@
+Just add the repository files under your Rails app's vendor/plugins directory under a new one called "findfail" and you're ready to go. 
+
+Findfail results in less business logic in your views and controllers because it forces you to open a model and add a method. Since you're already in the right place, you may as well stay there.
+
+It preys on your laziness that way.
